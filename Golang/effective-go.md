@@ -1,0 +1,1 @@
+[official](https://go.dev/doc/effective_go?source=post_page-----83865cd5cd81--------------------------------)
